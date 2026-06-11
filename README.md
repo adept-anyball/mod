@@ -112,6 +112,7 @@ Also available on [efog.tech](https://efog.tech/products/bosch-rexroth-btu).
   <img alt='BTU specsheet' src='https://github.com/user-attachments/assets/a1a8a0e0-8605-44d5-94d4-03515e37f13b' height='250' width='auto' />
 </p>
 
+[EFOG.TECH® BTUs](https://efog.tech/products/efogtech-btu) are fully compatible.  
 CY-8H BTUs from AliExpress [are compatible](https://github.com/adept-anyball/mod/issues/6), with one exception so far. \
 [SP-8](https://github.com/adept-anyball/mod/issues/5) and [Veichu-15](https://github.com/adept-anyball/mod/issues/11) are not directly compatible, but there are model(s) available. \
 Rexroth BTUs are clearly superior and are highly recommended.
