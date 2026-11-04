@@ -9,6 +9,15 @@ Allows Veichu 7.5mm BTUs to be used instead of Rexroth ones. \
 Not recommended for >50mm balls. \
 [Github issue](https://github.com/adept-anyball/mod/issues/4)
 
+### IGUCHI IS-05SNM
+
+Allows IGUCHI IS-05SNM BTUs (M2 stud type) to be used instead of Rexroth ones. \
+Push the BTU into the adapter. You do not need to screw it in. \
+The stud sticks out through the hole in the bottom of the adapter.
+
+> The fit of the BTU depends a lot on your printer. \
+> If it is too tight or too loose, edit the hole for the BTU (default 8.3mm) in the STEP file.
+
 ### Static
 
 [Github issue](https://github.com/adept-anyball/mod/issues/8)
@@ -39,6 +48,7 @@ To use it, insert the bearing ball in the bottom of the adapter. Slide the botto
 
 Allows default Ploopy MR63 ball bearings to be installed. \
 [Github issue](https://github.com/adept-anyball/mod/issues/22)
+
 
 ## Notes
 
