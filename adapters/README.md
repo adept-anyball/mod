@@ -49,7 +49,6 @@ To use it, insert the bearing ball in the bottom of the adapter. Slide the botto
 Allows default Ploopy MR63 ball bearings to be installed. \
 [Github issue](https://github.com/adept-anyball/mod/issues/22)
 
-
 ## Notes
 
 Please print adapters oriented like this:
