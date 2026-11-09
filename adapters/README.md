@@ -13,7 +13,8 @@ Not recommended for >50mm balls. \
 
 Allows IGUCHI IS-05SNM BTUs (M2 stud type) to be used instead of Rexroth ones. \
 Push the BTU into the adapter. You do not need to screw it in. \
-The stud sticks out through the hole in the bottom of the adapter.
+The stud sticks out through the hole in the bottom of the adapter. \
+[Github PR](https://github.com/adept-anyball/mod/pull/31)
 
 > The fit of the BTU depends a lot on your printer. \
 > If it is too tight or too loose, edit the hole for the BTU (default 8.3mm) in the STEP file.
