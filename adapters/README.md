@@ -19,6 +19,13 @@ The stud sticks out through the hole in the bottom of the adapter. \
 > The fit of the BTU depends a lot on your printer. \
 > If it is too tight or too loose, edit the hole for the BTU (default 8.3mm) in the STEP file.
 
+### Elecom M-TU03SS
+
+Allows Elecom M-TU03SS units to be used instead of Rexroth BTUs. \
+The M-TU03SS is a replacement part for Elecom trackballs. One pack has 3 units. \
+Push the unit into the adapter. \
+[Github PR](https://github.com/adept-anyball/mod/pull/32)
+
 ### Static
 
 [Github issue](https://github.com/adept-anyball/mod/issues/8)
